@@ -19,3 +19,6 @@
  - Create a Pull Request
 # Contact information.
  - Email: odoyograce23@gmail.com
+ # License and Copyright information.
+ - MIT License Copyright (c) 2020 (Odoyo Grace Awino)
+ - - [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
